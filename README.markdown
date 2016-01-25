@@ -1,5 +1,6 @@
 # Hecho con amor ♥ en Puebla.
 ## La iniciativa "Hecho con ♥ amor en Puebla".
+### 1.0.0
 
 La iniciativa "Hecho con amor ♥ en Puebla" ("la iniciativa"). Se le permite el uso libre de cargo a cualquier persona utilizando la iniciativa. La iniciativa  contempla que el que la utiliza, so pena de decir verdad, ha creado o realizado incluyendo, pero no limitado, una obra, cualquier tipo de trabajo, marca registrada o no registrada de su completa autoría dentro del estado de Puebla, México.
 
